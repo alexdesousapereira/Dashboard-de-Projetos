@@ -1,5 +1,6 @@
 # Dashboard-de-Projetos
 Click abaixo para acessar o dashboard de projetos.
+[![Projetos](https://i.imgur.com/RNH2BYa.png)](https://app.powerbi.com/view?r=eyJrIjoiZGM2NzMxZjEtMTFjOC00ZDI1LTk2YzgtNGU4MTBhOWE0MzFmIiwidCI6IjJlMDg2ODMxLTlkNTAtNDA4Zi04MWMzLTM5Zjc0OTZmYzNmNiJ9)
 
 ## Introdução
 A Karpa Group Corporation tem sede nos Estados Unidos atua no setor petroquímico e produz resinas
