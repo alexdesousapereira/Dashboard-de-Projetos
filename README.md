@@ -44,13 +44,13 @@ Conceitos:
 - Trabalho da Linha de Base: quantidade de horas que foram planejadas para serem gastas no projeto;
 - Trabalho Real: quantidade de horas gastas até o momento;
 - Trabalho: quantidade de horas previstas para serem gastas até o final do projeto, considerando as variações ao longo do tempo;
-- Duração& da& Lnha& de& Base:& quantidade de dias previstos para finalizar o projeto;
+- Duração da Linha de Base: quantidade de dias previstos para finalizar o projeto;
 - Duração Real: quantidade de dias trabalhados até o momento;
 - Duração: quantidade de dias de trabalho previstos até o final do projeto, considerando as variações ao longo do tempo;
 - Percentual de Horas Trabalhadas: Divisão do Trabalho Real pelo Trabalho da Linha de Base. Ele indica quantas horas de trabalho foram realizadas até o momento;
-- Percentual de Orçamento Consumido:Divisão do Custo Real pelo Custo da Linha de Base. Ele indica o que foi efetivamente gasto até o momento;
+- Percentual de Orçamento Consumido: Divisão do Custo Real pelo Custo da Linha de Base. Ele indica o que foi efetivamente gasto até o momento;
 - Indicador de Trabalho: Divisão do Custo Real pelo Custo da Linha de Base. Ele indica o que foi efetivamente gasto até o momento;
-- Indicador de Custo: Divisão do Custo pelo Custo de Linha de Base. Ele indica a tendência de o projeto ser fnalizado conforme os valores planejados de custos;
+- Indicador de Custo: Divisão do Custo pelo Custo de Linha de Base. Ele indica a tendência de o projeto ser finalizado conforme os valores planejados de custos;
 - Percentual Concluído: Divisão da Duração Real pela Duração total.
 
 ## Dados
@@ -75,6 +75,7 @@ Total Gasto: R$ 863.295
 Resposta: 9.515 horas e 6.987 horas respectivamente.
 
 3. Qual é o percentual de horas trabalhadas e o percentual de orçamento consumido até o momento? 
+
 Resposta: 73% e 63% respectivamente.
 
 4. Os projetos estão distribuídos em quais Áreas? Quantos projetos por Área?
@@ -86,6 +87,7 @@ Resposta: Engenharia (3), Qualidade (2), Tecnologia (1)
 Resposta: Marcelo
 
 5. Qual é o projeto com a duração planejada mais longa?  Quem é o Gerente?
+
 Resposta: Construção de Estacionamento com 208 dias e o gerente é Leonardo.
 
 6. Algum projeto já foi concluído? Qual? Qual?
@@ -114,7 +116,7 @@ Resposta: 23 tarefas. 17% são tarefas críticas.
 
 12. Quais são as tarefas que ainda precisam ser concluídas no Projeto de Processos de Logística? 
 
-Resposta: Elaborar o treinamento, Obter a aprovação e 
+Resposta: Elaborar o treinamento, obter a aprovação e 
 Realizar o Treinamento.
 
 13. No Projeto da Bomba de Gasolina, a partir de qual mês se observa o descolamento da Curva S do Custo Acumulado do Custo da Linha de Base Acumulado?
