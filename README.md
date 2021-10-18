@@ -22,17 +22,16 @@ Overview:
 - Projetos por Área;
 - Projetos por Gerência;
 - Overview dos projetos com início, término, duração, duração de linha de base, indicador de custo, indicador de trabalho e percentual de conclusão;
-- Lista dos projetos em um Gráfico de Gantt, pelo qual se possa visualizar a situação de cada um deles;
+- Lista dos projetos em um Gráfico de Gantt, pelo qual se possa visualizar a situação de cada um deles.
 
 Detalhamento por projeto:
 
 - Custo Real, Custo e Custo de Linha de Base;
-- Detalhamento do projeto com área, gerente de projeto, início, término, duração, percentual de 
-conclusão, total de tarefas;
+- Detalhamento do projeto com área, gerente de projeto, início, término, duração, percentual de conclusão, total de tarefas;
 - Curva S, com o valor acumulado de Custo e do Custo da Linha de Base ao longo do tempo;
 - Número de tarefas, com o percentual de tarefas críticas ou não;
 - Custo ao longo do tempo, comparando Custo, Custo da Linha de Base e Custo Real;
-- Tarefas do projeto, início, téemino, status, custo e trabalho;
+- Tarefas do projeto, início, término, status, custo e trabalho;
 
 Conceitos:
 
@@ -92,7 +91,7 @@ Resposta: Construção de Estacionamento com 208 dias e o gerente é Leonardo.
 
 6. Algum projeto já foi concluído? Qual? Qual?
 
-Resposta: Sim, Reforma do Galpão
+Resposta: Sim, Reforma do Galpão.
 
 7. De todos os projetos, qual apresenta o maior número de KPIs não atendidos?
 
@@ -116,12 +115,11 @@ Resposta: 23 tarefas. 17% são tarefas críticas.
 
 12. Quais são as tarefas que ainda precisam ser concluídas no Projeto de Processos de Logística? 
 
-Resposta: Elaborar o treinamento, obter a aprovação e 
-Realizar o Treinamento.
+Resposta: Elaborar o treinamento, obter a aprovação e Realizar o Treinamento.
 
 13. No Projeto da Bomba de Gasolina, a partir de qual mês se observa o descolamento da Curva S do Custo Acumulado do Custo da Linha de Base Acumulado?
 
-Resposta: Maio/2021
+Resposta: Maio/2021.
 
 # Direitos de Uso
 ***
